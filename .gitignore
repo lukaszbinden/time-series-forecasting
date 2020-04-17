@@ -1,3 +1,13 @@
 notebooks/data/household_power_consumption.txt
 notebooks/data/cleaned_household_power_consumption.csv
 notebooks/.ipynb_checkpoints/
+notebooks/google/rnn.py
+notebooks/google/README.md
+notebooks/google/Prediction from 2012 to 2017.png
+notebooks/google/Prediction for August 2017.png
+notebooks/google/LSTM Recurrent Neural Networks to Predict Google Stock Prices.pdf
+notebooks/google/Google_Stock_Price_Train.csv
+notebooks/google/Google_Stock_Price_Test.csv
+notebooks/google/.ipynb_checkpoints/LSTM to predict Google Stock Prices_univariate_singlestep-checkpoint.ipynb
+notebooks/mli/common/__pycache__/
+notebooks/mli/.ipynb_checkpoints/
